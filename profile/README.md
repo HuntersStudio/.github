@@ -76,7 +76,7 @@ Nuestro próximo gran proyecto será **The Wandering Hunter**, un proyecto comer
 
 ## Síguenos en Redes Sociales
 
-<a href="https://instagram.com/thehuntersstudios" target="blank">
+<a href="https://www.tiktok.com/@thehuntersstudios" target="blank">
   <img src="https://github.com/dochne/wappalyzer/blob/471c2fb0b093973c098bd1855b89c8cde4997479/src/images/icons/TikTok.svg" alt="TikTok Icon" width="50">
 </a>
 
