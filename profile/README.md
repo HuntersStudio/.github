@@ -29,7 +29,7 @@ The Hunters Studio es un grupo dinámico y creativo compuesto por:
         <img src="Equipo/Alejandro Diego.jpg" alt="Alejandro" width="300">
         <br>
 			  <h3>Alejandro</h3> 
-        Desarrollador
+        Desarrollador Back-End
 			</div>
 		</td>
 	</tr>
